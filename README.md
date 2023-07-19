@@ -13,7 +13,7 @@
 ⬇ Check out my latest post ⬇
 <br/>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=shinheylynn)](https://velog.io/@heylub) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=IamShin)](https://velog.io/@heylub) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=heylub&color=dark)](https://github.com/shinheylynn/velog-readme-stats)
 
 </div>
