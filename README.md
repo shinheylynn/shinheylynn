@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**shinheylynn/shinheylynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shinheylynn&theme=holi-theme)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+[![Heylynn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinheylynn&custom_title=This%20is%20how%20I%20roll%20🐌%20(Contribution%20Graph)&hide_border=true&title_color=fffff0&theme=tokyo-night)](https://github.com/shinheylynn/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+---
+
+⬇ Check out my latest post ⬇
+<br/>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=shinheylynn)](https://velog.io/@heylub) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=heylub&color=dark)](https://github.com/shinheylynn/velog-readme-stats)
+
+</div>
