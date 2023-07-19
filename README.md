@@ -12,8 +12,11 @@ I am a **Front-End developer** who is committed to ***improving user experience*
 based on 💫 ***collaboration and problem-solving skills***. 💫
 
 <br/>
+<br/>
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shinheylynn&theme=holi-theme)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinheylynn&exclude_repo=dkssud8150.github.io&layout=donut&theme=prussian" width="300px"/>
+
 [![Heylynn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shinheylynn&custom_title=This%20is%20how%20I%20roll%20🐌%20(Contribution%20Graph)&hide_border=true&title_color=fffff0&theme=tokyo-night)](https://github.com/shinheylynn/github-readme-activity-graph)
 
 
