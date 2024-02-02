@@ -27,6 +27,6 @@ based on 💫 ***collaboration and problem-solving skills***. 💫
 ### ⬇ Check out my latest post ⬇
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Click_Here)](https://velog.io/@heylub) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=heylub&color=dark)](https://github.com/shinheylynn/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=heylub)](https://github.com/heylub/velog-readme-stats)
 
 </div>
