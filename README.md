@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=800&color=F7F7F7&center=true&vCenter=true&width=500&height=80&lines=Hello+World+!+%F0%9F%8C%8D;%F0%9F%8C%B4+Welcome+to+Lynn's+GitHub+%F0%9F%8C%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=800&color=black&center=true&vCenter=true&width=500&height=80&lines=Hello+World+!+%F0%9F%8C%8D;%F0%9F%8C%B4+Welcome+to+Lynn's+GitHub+%F0%9F%8C%B4)](https://git.io/typing-svg)
 
 <img src="https://github.com/shinheylynn/shinheylynn/assets/84219519/42cabd0f-99d1-473c-bef9-3319226a29b9" width="200px"/><img src="https://github.com/shinheylynn/shinheylynn/assets/84219519/66c508fe-b0a8-408b-80bd-301f7c655669" width="200px"/>
 
