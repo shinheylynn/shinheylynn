@@ -1,6 +1,15 @@
-# currently using bitbucket
 
 <div align="center">
+🤫 2024.08~ currently using bitbucket 🪣
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=800&color=black&center=true&vCenter=true&width=500&height=80&lines=Hello+World+!+%F0%9F%8C%8D;%F0%9F%8C%B4+Welcome+to+Lynn's+GitHub+%F0%9F%8C%B4)](https://git.io/typing-svg)
 
